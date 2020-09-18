@@ -1,4 +1,4 @@
-# Deeplearning_tutorials
+# Deeplearning_projects
 
 딥러닝 연습을 위해 Kaggle에 있는 간단한 경진대회부터 최근에 했었던 경진대회들을 참가하였다.
 
